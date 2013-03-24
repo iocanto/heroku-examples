@@ -1,6 +1,16 @@
 *.class
 
+# Node Example Files #
+nodejs-sample/node_modules
+
+# Java Example Files #
+java-sample/target/
+
 # Package Files #
 *.jar
 *.war
 *.ear
+
+#tmp files 
+*~
+
