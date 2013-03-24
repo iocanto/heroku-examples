@@ -1,6 +1,6 @@
 # Nodejs Example
 
-This is an simple node.js app. 
+This is a simple node.js app. 
 
 ## Prerequisites
 
